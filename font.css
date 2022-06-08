@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "sedan_scregular";
+    src: url("fonts/sedansc-regular.ttf");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Micolesther-Regular";
+    src: url("fonts/Micolesther-Regular.ttf");
+    font-weight: 100;
+    font-style: normal;
+}
